@@ -13,6 +13,7 @@ function exemple() {
     var a = 1;
     let b = 2;
     const c = 3;
+    let d = 4;
   
     if (true) {
       var a = 10;   // Redéclare et écrase
